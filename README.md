@@ -34,7 +34,7 @@ link: https://drive.google.com/file/d/1EO5B8V4XT1O5hLNmVHuX5WGdTbW5S2An/view?usp
 - User can save the coordinates of the shapes  .
 
 ## Installation and Getting Started
-
+- npm install
 - npm start
 
 
